@@ -1,2 +1,3 @@
 # GT-Interdimensional
-mong us
+
+This is an expert modpack
